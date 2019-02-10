@@ -3,4 +3,4 @@ Dieses Modul ist für die Verwendung unter **mirrOS_beta_075** gedacht (siehe ww
 
 Das Modul ermöglicht die Anzeige aller Abfahrtszeiten für **eine frei wählbare Haltestelle** im Verkehrsverbund Oberelbe.
 
-![Ansicht Modul VVO Abfahrten](../assetes/ReadmeImage1.png "Optional title attribute")
+![](/https://github.com/cmette/vvo/tree/master/assets/ReadmeImage1.png)
