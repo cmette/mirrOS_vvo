@@ -1,0 +1,17 @@
+{
+		"module": {
+				"name": "vvo",
+				"version": "1.0.3",
+				"description": "VVO Abfahrtszeiten",
+        "module_url": "https:\/\/glancr.de\/module\/mobilitaet\/vvo-abfahrten\/",
+        "download_url": "https:\/\/api.glancr.de\/update\/moduleZips\/vvo-1.0.0.zip",
+        "category": "mobilitaet",
+				"last_update": ""
+		},
+		"creator": {
+				"name": "Christian Mette",
+				"contact": "name@mailserver.de",
+				"website": "https://www.my-website.com",
+				"profile": "https://www.glancr.de/profiles/__dev-username__"
+		}
+}

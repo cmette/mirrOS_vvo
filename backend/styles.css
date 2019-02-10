@@ -1,0 +1,23 @@
+/* ist nötig, um die DropDown des autocomplete sichtbar zu machen */
+.ui-autocomplete-input {
+	z-index: 1000 !important;
+}
+.ui-front {
+    z-index: 1500 !important;
+}
+
+.w50 {
+	width:50%;
+	float:left;
+}
+
+.ui-widget h6 {
+	font-weight: bold;
+}
+
+.framed {
+	border: 1px solid #b0b0b0;
+	padding: 6px;
+	border-radius: 6px;
+	margin-bottom: 1em;
+}

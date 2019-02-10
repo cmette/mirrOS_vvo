@@ -1,0 +1,104 @@
+# mirr.OS v0.1.
+# Copyright (C) 2016
+# This file is distributed under the same license as the PACKAGE package.
+# mattes <ma@glancr.de>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mirr.OS v0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-17 10:20+0100\n"
+"PO-Revision-Date: 2019-01-17 16:52+0100\n"
+"Last-Translator: gorbo <info@gorbo.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 2.2.1\n"
+"Language: de_DE\n"
+
+# Module -----------------------------------------------------------------------
+
+msgid "vvo_title"
+msgstr "Abfahrten"
+
+msgid "vvo_description"
+msgstr "Zeigt Abfahrtszeiten im Bereich des VVO"
+
+# Backend ----------------------------------------------------------------------
+
+msgid "vvo_stopName"
+msgstr "Geben Sie hier Ihre Haltestelle ein (min. 3 Zeichen)"
+
+msgid "vvo_hit"
+msgstr "Treffer"
+
+msgid "vvo_mot"
+msgstr "Schränken Sie hier die Verkehrsmittel ein (nichts gewählt = alle anzeigen)"
+
+msgid "vvo_tram"
+msgstr "Tram/Straßenbahn"
+
+msgid "vvo_citybus"
+msgstr "Stadtlinien"
+
+msgid "vvo_intercitybus"
+msgstr "Fernbusse"
+
+msgid "vvo_suburbanrailway"
+msgstr "S-Bahnen"
+
+msgid "vvo_train"
+msgstr "Bahnen"
+
+msgid "vvo_cableway"
+msgstr "Seilbahnen"
+
+msgid "vvo_ferry"
+msgstr "Fähren"
+
+msgid "vvo_hailedsharedtaxi"
+msgstr "Rufbusse/Sammeltaxi"
+
+msgid "vvo_options"
+msgstr "Optionen"
+
+msgid "vvo_state"
+msgstr "zeige Status (pünktlich->verspätet->storniert etc.)"
+
+msgid "vvo_return_limit"
+msgstr "unklar"
+
+msgid "save"
+msgstr "speichern"
+
+# Frontend ---------------------------------------------------------------------
+
+msgid "vvofe_config_hint"
+msgstr "Bitte konfigurieren Sie das Modul über Ihr Smartphone oder Tablet"
+
+msgid "vvofe_station"
+msgstr "Ab"
+
+msgid "vvofe_id"
+msgstr "ID"
+
+msgid "vvofe_line"
+msgstr "Linie"
+
+msgid "vvofe_direction"
+msgstr "Richtung"
+
+msgid "vvofe_time"
+msgstr "Abfahrt"
+
+msgid "vvofe_state"
+msgstr "Status"
+
+msgid "vvofe_delayed"
+msgstr "Verspätung"
+
+msgid "vvofe_nodata"
+msgstr "keine Daten"

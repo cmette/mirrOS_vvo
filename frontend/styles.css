@@ -1,0 +1,11 @@
+#vvo_table { 
+  border-collapse: collapse; 
+}
+
+#vvo_table thead tr th {
+	text-align: left; 
+} 
+
+#vvo_table thead tr th {
+	border-bottom: 1px solid white;
+}
