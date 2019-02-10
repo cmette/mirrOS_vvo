@@ -9,12 +9,14 @@ Das Modul ermöglicht die Anzeige aller Abfahrtszeiten für **eine frei wählbar
 Kommt demnächst noch...
 
 # Backend
-Die Seite für die Modul-Konfiguration (auch Backend genannt) erreicht man nach dem Setup des mirrOS. Dort können bestimmte Einstellungen für das Modul vorgenommen werden. Der Dialog für die Konfiguration sieht ungefähr so aus:
+Die Seite für die Modul-Konfiguration (auch Backend genannt) erreichen Sie nach dem Setup des mirrOS. Dort können bestimmte Einstellungen für das Modul vorgenommen werden. Der Dialog für die Konfiguration sieht ungefähr so aus:
 
 ![Modulansicht](https://github.com/cmette/mirrOS_vvo/blob/master/assets/ReadmeImage2.png "VVO Abfahrten - Ansicht Backend")
 
-Unmittelbar nach der Installation muss das Modul am Backend konfiguriert werden. Daher werden am Frontend noch keine Abfahrten angezeigt. Wählen Sie am Backend im DrpDown-Menü eine Haltestelle aus. Sie müssen dazu mindestens **3 Zeichen** in das Textfeld eingeben, damit Ihnen die ersten Treffer angezeigt werden.
-Wenn Sie eine Haltestelle ausgewählt haben, werden unmittelbar danach die ersten Abfahrten für diese Haltestelle am Frontend angezeigt.
+Unmittelbar nach der Installation muss das Modul am Backend noch konfiguriert werden. Daher werden am Frontend noch keine Abfahrten angezeigt. Wählen Sie am Backend im DrpDown-Menü eine Haltestelle aus. Sie müssen dazu mindestens **3 Zeichen** in das Textfeld eingeben, damit Ihnen die ersten Treffer angezeigt werden.
+Wenn Sie eine Haltestelle ausgewählt haben, werden unmittelbar danach die ersten Abfahrten für diese Haltestelle am Frontend angezeigt. Je nach größe der Haltestelle (im Bild oben Hauptbahnhof, Dresden) können das sehr viele Abfahrten sein. Zurzeit zeigt das Modul nur die **nächsten 15 Abfahrten** ab "jetzt" ("jetzt" ist die lokale Zeit des mirrOS).
+Unter dem Textfeld für die Haltestelle können Sie die Anzeige auf das von Ihnen bevorzugte Verkehrsmittel **einschränken**. Ist hier **keine** der Ceckboxen ausgewählt, dann werden **alle** verfügbaren Verkehrsmittel an diesem Halt aufgelistet.
+Unter der Einschränkung der Verkehrsmittel befindet sich eine Option. Hier können Sie auswählen, ob Sie die aktuellen Verspätungen in **Echtzeit** sehen wollen. 
 
 # Probleme
 Da das Modul für größere Bahnhöfe durchaus mehrere Abfahrten anzeigen kann, ist es möglich, dass die Liste bis in das nächste Modul, das unterhalb platziert wurde, hineinreicht. Aus diesem Grund wird empfohlen, das Modul in "halber Breite" darzustellen und bei einer langen Liste den Modul-Platz darunter einfach frei zu lassen. Im obigen Screenshot ist das Problem auf diese Weise gelöst. Ich arbeite an einer besseren Lösung.
