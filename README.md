@@ -6,7 +6,7 @@ Das Modul ermöglicht die Anzeige aller Abfahrtszeiten für **eine frei wählbar
 ![Modulansicht](https://github.com/cmette/mirrOS_vvo/blob/master/assets/ReadmeImage1.png "VVO Abfahrten - Ansicht Frontend")
 
 # Installation
-Am einfachsten lässt sich das Modul direkt von der Website https://glancr.de/module/mobilitaet/verkehrsbetriebe/ installieren. Sollte es dort noch nicht gelistet sein, dann können Sie die das Modul als ZIP-Datei hier herunterladen.
+Am einfachsten lässt sich das Modul direkt von der Website https://glancr.de/module/mobilitaet/verkehrsbetriebe/ installieren. Sollte es dort noch nicht gelistet sein, dann können Sie die das Modul als ZIP-Datei [hier](https://github.com/cmette/mirrOS_vvo/blob/master/vvo-1.0.3.zip) herunterladen. **Speichern** Sie die ZIP-Datei an einem Ort Ihrer Wahl, **navigieren** Sie in Ihrem Browser zum **Backend** des mirros_beta, **laden** Sie dort die ZIP-Datei **hoch**, **platzieren** Sie das Modul in einem Slot.
 
 # Backend
 Die Seite für die Modul-Konfiguration (auch Backend genannt) erreichen Sie nach dem Setup des mirrOS. Dort können bestimmte Einstellungen für das Modul vorgenommen werden. Der Dialog für die Konfiguration sieht ungefähr so aus:
